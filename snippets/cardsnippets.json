@@ -1,0 +1,41 @@
+{
+    "Bootstrap 4 card": {
+        "prefix": "!bscard",
+        "body": [
+            "<div class=\"card\" style=\"width: 18rem;\">",
+            "<img class=\"card-img-top\" src=\"\" alt=\"Card image cap\">",
+            "<div class=\"card-body\">",
+                "<h5 class=\"card-title\">Card title</h5>",
+                "<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>",
+                "<a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>",
+            "</div>",
+            "</div>"
+        ],
+        "description": "Basic card with mixed content and a fixed width for Bootstrap 4"
+    },
+    "Bootstrap 4 card with Header": {
+        "prefix": "!bscardhf",
+        "body":[
+            "<div class=\"card\">",
+                "<div class=\"card-header\">",
+                    "Header",
+                "</div>",
+                "<div class=\"card-body\">",
+                    "<h5 class=\"card-title\">Special title treatment</h5>",
+                    "<p class=\"card-text\">With supporting text below as a natural lead-in to additional content.</p>",
+                    "<a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>",
+                "</div>",
+                "<div class=\"card-footer text-muted\">",
+                    "Footer",
+                "</div>",
+            "</div>"
+        ],
+        "description": "Card with Header and Footer for Bootstrap 4"
+    },
+    "Bootstrap 4 Card Center Align": {
+        "prefix": "!bscardc",
+        "body":"text-center",
+        "description": "Class to Align Content Center within card"
+    }
+
+}

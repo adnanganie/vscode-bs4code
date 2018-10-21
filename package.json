@@ -1,0 +1,46 @@
+{
+    "name": "bs4code",
+    "displayName": "bs4code",
+    "description": "Boilerplate of bootstrap 4 ready in a moment",
+    "version": "1.2.0",
+    "publisher": "adnanayoub",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/adnanganie/vscode-bs4code"
+	},
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/navsnippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/formsnippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/cardsnippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/listsnippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

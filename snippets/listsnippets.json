@@ -1,0 +1,28 @@
+{
+    "Bootstrap 4 List":{
+        "prefix":"bsls",
+        "body":[
+            "<ul class=\"list-group\">",
+            "<li class=\"list-group-item\">Cras justo odio</li>",
+            "<li class=\"list-group-item\">Cras justo odio</li>",
+            "<li class=\"list-group-item\">Cras justo odio</li>",
+            "<li class=\"list-group-item\">Cras justo odio</li>",
+            "</ul>"
+        ],
+        "description": "Bootstrap 4 List "
+    },
+    "Bootstrap 4 List with link and button":{
+        "prefix":"bslslb",
+        "body":[
+            "<div class=\"list-group\">",
+            "<a href=\"#\" class=\"list-group-item list-group-item-action active\">",
+              "Cras justo odio",
+            "</a>",
+            "<a href=\"#\" class=\"list-group-item list-group-item-action\">Dapibus ac facilisis in</a>",        
+            "<a href=\"#\" class=\"list-group-item list-group-item-action\">Dapibus ac facilisis in</a>",
+            "<a href=\"#\" class=\"list-group-item list-group-item-action\">Dapibus ac facilisis in</a>",
+          "</div>"
+        ],
+        "description":"Bootstrap 4 List with Links and buttons"
+    }
+}
