@@ -11,9 +11,7 @@ Describe specific features of your extension including screenshots of your exten
 | !bscdn      	| Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 	|
 | -------------------------  | ----------------------------------------------------- |
 | !bsnav     	| Default Navigation for Bootstrap 4 |
-
 | !bsnavc    	| Class to Align Navigation Center   |
-
 | !bsnavr    	| Class to Align Navigation Right    |                                                          
 | !bsf    	    | Bootstrap Form |
                             
@@ -28,7 +26,7 @@ Describe specific features of your extension including screenshots of your exten
 | !bsls         | Bootstrap List  |
                             
 | !bslslb       | Bootstrap List with Links and Buttons  |
-       
+
 ## Requirements
 
 If you have any requirements or dependencies, add a section describing those and how to install and configure them.
