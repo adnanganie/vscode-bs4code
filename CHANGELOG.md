@@ -10,3 +10,6 @@ All notable changes to the "bs4code" extension will be documented in this file.
 ## [1.2.0]
 - List
 - List with Links and Buttons
+
+## [1.3.0]
+- Bug Fixed

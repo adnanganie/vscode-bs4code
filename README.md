@@ -55,6 +55,9 @@ Form added
 List added
 Container with row and columns
 
+## [1.3.0]
+- Bug fixed
+
 -----------------------------------------------------------------------------------------------------------
 
 ## Working with Markdown
