@@ -8,7 +8,8 @@ Describe specific features of your extension including screenshots of your exten
 
 ## Shortcuts / Commands
 
-| !bscdn      	| Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 	|-----------------------------------------------------------------------------------------------	    |
+| !bscdn      	| Creates an Bootstrap 4 starter template. With Jquery, popper.js and Font-Awesome 5 	|
+| ------------------------------------------------------------------------------ |
 | !bsnav     	| Default Navigation for Bootstrap 4                                                            	|
 | !bsnavc    	| Class to Align Navigation Center                                                              	|
 | !bsnavr    	| Class to Align Navigation Right                                                                  |                                                          
