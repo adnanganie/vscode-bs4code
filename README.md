@@ -85,9 +85,8 @@ Container with row and columns
 * Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
 ## Credits
-
+![Adnan Ayoub](https://avatars1.githubusercontent.com/u/15443192?s=40&v=4)
 **Follow us on Github**
-![GitHub](https://avatars1.githubusercontent.com/u/15443192?s=40&v=4)
 - [@adnanganie](https://github.com/adnanganie)
 **Follow us on facebook**
 - [@adnanganie](https://facebook.com/adnanganie)
