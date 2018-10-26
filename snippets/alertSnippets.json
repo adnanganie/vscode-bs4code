@@ -1,0 +1,41 @@
+{
+    "Bootstrap 4 Alert": {
+        "prefix": "!bsalert",
+        "body": [
+            "<div class=\"alert alert-primary\" role=\"alert\">",
+            "A simple primary alert—check it out!",
+            "</div>"
+        ],
+        "description": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages."
+    },
+    "Alert with red color": {
+        "prefix": "!bsaldanger",
+        "body": "alert-danger",
+        "description": "alert with red color"
+    },
+    "Alert with Heading, Paragraph and Divider": {
+        "prefix": "!bsalerthp",
+        "body": [
+            "<div class=\"alert alert-success\" role=\"alert\">",
+            "<h4 class=\"alert-heading\">Well done!</h4>",
+            "<p>Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.</p>",
+            "<hr>",
+            "<p class=\"mb-0\">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>",
+            "</div>"
+        ],
+        "description": "Alert contain  additional HTML elements like headings, paragraphs and dividers."
+    },
+    "Alert Dismissing": {
+        "prefix": "!bsalertdis",
+        "body": [
+            "<div class=\"alert alert-warning alert-dismissible fade show\" role=\"alert\">",
+            "<strong>Holy guacamole!</strong> You should check in on some of those fields below.",
+            "<button type=\"button\" class=\"close\" data-dismiss=\"alert\" aria-label=\"Close\">",
+            "<span aria-hidden=\"true\">&times;</span>",
+            "</button>",
+            "</div>"
+        ],
+        "description": "Dismissing Using the alert JavaScript plugin, it’s possible to dismiss any alert inline.Be sure you’ve loaded the alert plugin, or the compiled Bootstrap JavaScript."
+    }
+
+}

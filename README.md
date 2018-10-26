@@ -21,10 +21,14 @@ Describe specific features of your extension including screenshots of your exten
 | !bscardc      | Bootstrap 4 Card Align Center   |
 | !bsls         | Bootstrap List  |
 | !bslslb       | Bootstrap List with Links and Buttons  |
+| !bsalert      | Bootstrap basic Alert |
+| !bsaldanger   | Alert with red background and foreground color |
+| !bsalertdis   | Alert -  to dismiss any alert inline |
+| !bsalerthp    | Alerts can also contain additional HTML elements like headings, paragraphs and dividers |
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+Visual Studio Code version 1.28.0 required
 
 ## Extension Settings
 
@@ -55,8 +59,15 @@ Form added
 List added
 Container with row and columns
 
-## [1.3.0]
+## 1.3.0
 - Bug fixed
+
+## 1.4.0
+- Alert - Provide contextual feedback messages
+- Additional content
+    Alerts can also contain additional HTML elements like headings, paragraphs and dividers.
+- Dismissing
+    Dismiss any alert inline.
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -71,6 +82,8 @@ Container with row and columns
 ## Credits
 
 - [@adnanganie](https://github.com/adnanganie)
+- Follow us on facebook
+- [@adnanganie](https://facebook.com/adnanganie)
 
 ### For more information
 
