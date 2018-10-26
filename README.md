@@ -9,7 +9,7 @@ This extension will solve the issue for you with a simple !bscdn
 Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 
 - Include Bootstrap's HTML codes
-- By type a **Code** and get a HTML & CSS code.
+- By type a *shortcutCode* and get a HTML & CSS code.
 
 ## Shortcuts / Commands
 
