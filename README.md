@@ -4,7 +4,12 @@ This extension will solve the issue for you with a simple !bscdn
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+**Bootstrap 4 readymade HTML with CSS**
+
+Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
+
+- Include Bootstrap's HTML codes
+- By type a **Code** and get a HTML & CSS code.
 
 ## Shortcuts / Commands
 
@@ -81,9 +86,13 @@ Container with row and columns
 
 ## Credits
 
+**Follow us on Github**
+![GitHub](https://avatars1.githubusercontent.com/u/15443192?s=40&v=4)
 - [@adnanganie](https://github.com/adnanganie)
-- Follow us on facebook
+**Follow us on facebook**
 - [@adnanganie](https://facebook.com/adnanganie)
+**Website**
+- [@alkowsartech](https://alkowsartech.com)
 
 ### For more information
 
