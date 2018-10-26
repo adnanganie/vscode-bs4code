@@ -42,6 +42,18 @@
                 "path": "./snippets/listsnippets.json"
             },
             {
+                "language": "html",
+                "path": "./snippets/jumbotronSnippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/modalSnippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/buttonSnippets.json"
+            },
+            {
                 "language": "javascript",
                 "path": "./snippets/alertSnippets.json"
             },

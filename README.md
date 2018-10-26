@@ -30,10 +30,15 @@ Build responsive, mobile-first projects on the web with the world's most popular
 | !bsaldanger   | Alert with red background and foreground color |
 | !bsalertdis   | Alert -  to dismiss any alert inline |
 | !bsalerthp    | Alerts can also contain additional HTML elements like headings, paragraphs and dividers |
+| !bsj          | Jumbotron: A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site. |
+| !bsm          | Dialogs to your site for lightboxes, user notifications, or completely custom content. |
+| !bsbtm        | Toggle a working modal demo by clicking the button below. It will slide down and fade in from the top of the page. |
+| !bsbtn        | Use Bootstrap’s custom button styles for actions in forms etc. |
+| !bsbg         | Group a series of buttons together on a single line with the button group. |
 
 ## Requirements
 
-Visual Studio Code version 1.28.0 required
+- Visual Studio Code version 1.28.0 or Up required.
 
 ## Extension Settings
 
@@ -73,6 +78,10 @@ Container with row and columns
     Alerts can also contain additional HTML elements like headings, paragraphs and dividers.
 - Dismissing
     Dismiss any alert inline.
+- Jumbotron
+    - A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.
+- Button
+- Group a series of buttons together on a single line with the button group.
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -86,6 +95,7 @@ Container with row and columns
 
 ## Credits
 ![Adnan Ayoub](https://avatars1.githubusercontent.com/u/15443192?s=40&v=4)
+- 
 **Follow us on Github**
 - [@adnanganie](https://github.com/adnanganie)
 **Follow us on facebook**

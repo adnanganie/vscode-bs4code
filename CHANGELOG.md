@@ -17,6 +17,10 @@ All notable changes to the "bs4code" extension will be documented in this file.
 ## 1.4.0
 - Alert - Provide contextual feedback messages
 - Additional content
-    Alerts can also contain additional HTML elements like headings, paragraphs and dividers.
+    - Alerts can also contain additional HTML elements like headings, paragraphs and dividers.
 - Dismissing
-    Dismiss any alert inline.
+    - Dismiss any alert inline.
+- Jumbotron
+    - Lightweight, flexible component for showcasing hero unit style content.
+- Button
+- Group a series of buttons together on a single line with the button group.
