@@ -85,7 +85,7 @@ Container with row and columns
 
 -----------------------------------------------------------------------------------------------------------
 ## Demo 
- [Look a Demo ](demo.gif)
+![Look a Demo ](demo.gif)
 ## Working with Markdown
 
 **Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
