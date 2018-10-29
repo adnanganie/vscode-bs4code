@@ -2,7 +2,7 @@
     "name": "bs4code",
     "displayName": "bs4code",
     "description": "Boilerplate of bootstrap 4 ready in a moment",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "publisher": "adnanayoub",
     "repository": {
 		"type": "git",
@@ -52,6 +52,10 @@
             {
                 "language": "html",
                 "path": "./snippets/buttonSnippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/layoutSnippets.json"
             },
             {
                 "language": "javascript",

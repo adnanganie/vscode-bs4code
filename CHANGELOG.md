@@ -24,3 +24,6 @@ All notable changes to the "bs4code" extension will be documented in this file.
     - Lightweight, flexible component for showcasing hero unit style content.
 - Button
 - Group a series of buttons together on a single line with the button group.
+
+## 1.5.0
+- Layout with Container, Rows, Cols.

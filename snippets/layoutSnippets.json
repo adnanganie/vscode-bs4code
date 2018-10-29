@@ -1,0 +1,24 @@
+{
+    "container":{
+        "prefix": "!bscon",
+        "body":[
+            "<div class=\"container\">",
+            "$0",
+            "</div>"
+        ],
+        "description": "Containers are the most basic layout element in Bootstrap and are required when using our default grid system."
+    },
+    "container with row and col":{
+        "prefix":"!bscrc1",
+        "body":[
+            "<div class=\"container\">",
+            "<div class=\"row\">",
+                "<div class=\"co1-md-${1:size}\">",
+                "$0",
+                "</div>",
+            "</div>",    
+          "</div>"
+        ],
+        "description":"Grid System - To build layouts of all shapes and sizes."
+    }
+}

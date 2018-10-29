@@ -35,6 +35,8 @@ Build responsive, mobile-first projects on the web with the world's most popular
 | !bsbtm        | Toggle a working modal demo by clicking the button below. It will slide down and fade in from the top of the page. |
 | !bsbtn        | Use Bootstrap’s custom button styles for actions in forms etc. |
 | !bsbg         | Group a series of buttons together on a single line with the button group. |
+| !bscon        | Bootstrap default container. |
+| !bscrc1       | Container with row and col   |
 
 ## Requirements
 
@@ -67,7 +69,6 @@ Initial release of bootstrap 4 shortcut codes
 
 Form added
 List added
-Container with row and columns
 
 ## 1.3.0
 - Bug fixed
@@ -82,6 +83,9 @@ Container with row and columns
     - A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.
 - Button
 - Group a series of buttons together on a single line with the button group.
+
+## 1.5.0
+- Layout with Container, Rows, Cols
 
 -----------------------------------------------------------------------------------------------------------
 ## Demo 
