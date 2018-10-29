@@ -98,11 +98,11 @@ Container with row and columns
 ![Adnan Ayoub](https://avatars1.githubusercontent.com/u/15443192?s=40&v=4)
 - 
 **Follow us on Github**
-    [@adnanganie](https://github.com/adnanganie)
+## [@adnanganie](https://github.com/adnanganie)
 **Follow us on facebook**
-    [@adnanganie](https://facebook.com/adnanganie)
+## [@adnanganie](https://facebook.com/adnanganie)
 **Website**
-    [@alkowsartech](https://alkowsartech.com)
+## [@alkowsartech](https://alkowsartech.com)
 
 ### For more information
 
